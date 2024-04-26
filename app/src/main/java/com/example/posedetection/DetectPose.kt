@@ -126,4 +126,5 @@ class DetectPose : AppCompatActivity() {
 
         return PoseDetection.getClient(options)
     }
+
 }
